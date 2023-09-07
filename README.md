@@ -1,4 +1,4 @@
-### Build an American Sign Language alphabet classifier using pytorch and GPU environments on Watson Studio
+### Build an American Sign Language alphabet classifier using pytorch and GPU environments on WatsonX 
 
 
 # Overview
