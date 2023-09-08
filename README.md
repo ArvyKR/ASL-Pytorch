@@ -75,24 +75,7 @@ run the last model many times to check different samples.
 ![Result](https://github.com/IBM/ASL-Pytorch/blob/master/images/result.png)
 
 
-### check notebook result 
 
-[Notebook with outputs](https://github.com/IBM/ASL-Pytorch/blob/master/ASL_v2.ipynb)  
-
-# links
-
-* learn more about [Pytorch](https://pytorch.org/)  
-* [Create WatsonX Notebooks](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/creating-notebooks.html)
-* [Learn more about GPU environments](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/gpu-environments.html)
-
-# Learn more
-
-* [Get started with PyTorch ](https://developer.ibm.com/articles/cc-get-started-pytorch/): In this article, you can find an overview of the PyTorch system and learn more about the supported platforms and the benefits of using PyTorch.
-
-* [Build models using Jupyter Notebooks in IBM WatsonX](https://developer.ibm.com/technologies/artificial-intelligence/tutorials/watson-studio-using-jupyter-notebook/)
-  
-* [Multiclass image classification of yoga postures using WatsonX and Deep Learning as a Service](https://developer.ibm.com/tutorials/image-preprocessing-for-computer-vision-usecases/)
- 
 
 
 
