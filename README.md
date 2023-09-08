@@ -19,11 +19,6 @@ Learn more about available environments <a href="https://dataplatform.cloud.ibm.
 
 
 
-
-1. Log into IBM Watson Studio.
-2. Get your Kaggle API credentials
-3. Run the Jupyter Notebook in Watson Studio.
-
 # Instructions
 
 
