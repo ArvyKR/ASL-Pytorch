@@ -13,8 +13,8 @@ In this notebook we will:
 4- train the last blocks of the network along with the classifier we defined.  
 5- test the model we trained.  
 
-This notebook uses python 3.6 + GPU environment which allow us to do the whole process and train complex model in the same place which is a notebook in Watson studio.
-Learn more about available environments <a href="https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/gpu-environments.html"> Watson Studio environments.</a>
+This notebook uses python 3.6 + GPU environment which allow us to do the whole process and train complex model in the same place which is a notebook in WatsonX.
+Learn more about available environments <a href="https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/gpu-environments.html"> WatsonX environments.</a>
 
 
 
@@ -22,34 +22,34 @@ Learn more about available environments <a href="https://dataplatform.cloud.ibm.
 # Instructions
 
 
-1. [Sign up for Watson Studio](#1-sign-up-for-watson-studio)
+1. [Sign up for WatsonX](#1-sign-up-for-watson-studio)
 2. [Create a new project](#2-create-a-new-project)
 3. [Create the notebook](#3-create-the-notebook)
 4. [Run the notebook](#4-run-the-notebook)
 5. [Test your model](#5-Test-the-model)
 
-### 1. Sign up for Watson Studio
+### 1. Sign up for WatsonX
 
-We will use Watson studio to run this notebook, Watson studio is available through IBM cloud or IBM Cloud Paks For Data.
+We will use WatsonX to run this notebook, WatsonX is available through IBM cloud.
 
 * To start you must have IBM cloud account, Get your for free <a href="https://cloud.ibm.com/registration">Here.</a>   
-* From the catalog create a <a href="https://cloud.ibm.com/catalog/services/watson-studio">watson studio</a> with standard plan or more and make sure the region is dallas to enable GPU environment.  
-* Alternatively, you can use the ```ASL_PyTorch-CPU``` Notebook if you are a Watson Studio Lite Plan user
+* From the catalog create a <a href="https://cloud.ibm.com/catalog/services/watsonx">WatsonX</a> with standard plan or more and make sure the region is dallas to enable GPU environment.  
+* Alternatively, you can use the ```ASL_PyTorch-CPU``` Notebook if you are a WatsonX Lite Plan user
 
 ![CREATE WS](https://raw.githubusercontent.com/IBM/ASL-Pytorch/master/images/create.gif)  
 
 ### 2. Create a new project
 
 
-From the Watson Studio home page, select `Creat a project`, then select the `Create an empty project` and choose a name for your project then press create .
+From the WatsonX home page, select `Creat a project`, then select the `Create an empty project` and choose a name for your project then press create .
 
 ![CREATE Project](https://raw.githubusercontent.com/IBM/ASL-Pytorch/master/images/project.gif)  
 
-* create a watson studio project <a href="https://www.youtube.com/watch?v=-CUi8GezG1I">see tutorial here.</a>  
+* create a WatsonX project <a href="https://www.youtube.com/watch?v=-CUi8GezG1I">see tutorial here.</a>  
 
 ### 3. Create the notebook 
 
-* create a new notebook from watson studio with GPU support.    
+* create a new notebook from WatsonX with GPU support.    
     * the notebook should have a GPU support <a href="https://www.youtube.com/watch?v=RNIWtpnNBoo">click here to learn how to create a notebook with GPU support.</a>
     * Use the From URL option and    
     use this URL for GPU supported notebook: https://github.com/IBM/ASL-Pytorch/blob/master/ASL-GPU.ipynb \
@@ -82,16 +82,16 @@ run the last model many times to check different samples.
 # links
 
 * learn more about [Pytorch](https://pytorch.org/)  
-* [Create Watson Studio Notebooks](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/creating-notebooks.html)
+* [Create WatsonX Notebooks](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/creating-notebooks.html)
 * [Learn more about GPU environments](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/gpu-environments.html)
 
 # Learn more
 
 * [Get started with PyTorch ](https://developer.ibm.com/articles/cc-get-started-pytorch/): In this article, you can find an overview of the PyTorch system and learn more about the supported platforms and the benefits of using PyTorch.
 
-* [Build models using Jupyter Notebooks in IBM Watson Studio](https://developer.ibm.com/technologies/artificial-intelligence/tutorials/watson-studio-using-jupyter-notebook/)
+* [Build models using Jupyter Notebooks in IBM WatsonX](https://developer.ibm.com/technologies/artificial-intelligence/tutorials/watson-studio-using-jupyter-notebook/)
   
-* [Multiclass image classification of yoga postures using Watson Studio and Deep Learning as a Service](https://developer.ibm.com/tutorials/image-preprocessing-for-computer-vision-usecases/)
+* [Multiclass image classification of yoga postures using WatsonX and Deep Learning as a Service](https://developer.ibm.com/tutorials/image-preprocessing-for-computer-vision-usecases/)
  
 
 
