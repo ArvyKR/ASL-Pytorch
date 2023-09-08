@@ -55,7 +55,8 @@ From the WatsonX home page, select `Creat a project`, then select the `Create an
     use this URL for GPU supported notebook: https://github.com/IBM/ASL-Pytorch/blob/master/ASL-GPU.ipynb \
     or use this URL for CPU notebook(LITE) : https://github.com/IBM/ASL-Pytorch/blob/master/ASL-CPU.ipynb
 
-![NOTEBOOK](https://raw.githubusercontent.com/IBM/ASL-Pytorch/master/images/notebook.gif)
+![NOTEBOOK](https://github.com/ArvyKR/ASL-Pytorch/assets/95832640/c45bc32d-9394-4ddf-be49-a92e63862457)
+
 
 ### 4. Run the notebook 
 
