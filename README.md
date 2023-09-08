@@ -19,11 +19,6 @@ Learn more about available environments <a href="https://dataplatform.cloud.ibm.
 
 
 
-# Flow
-
-    
-
-![Flow](https://raw.githubusercontent.com/IBM/ASL-Pytorch/master/images/diagram.png)
 
 1. Log into IBM Watson Studio.
 2. Get your Kaggle API credentials
