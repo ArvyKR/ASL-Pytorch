@@ -99,7 +99,7 @@ Cells are how notebooks are structured and are the areas where you write your co
 The last two cells in the notebook is where we test our trained model.
 run the last model many times to check different samples.
 
-![Result](https://github.com/IBM/ASL-Pytorch/blob/master/images/result.png)
+![Result](https://github.com/ArvyKR/ASL-Pytorch/blob/master/images/result.png)
 
 
 
