@@ -61,11 +61,16 @@ Setelah seluruh informasi telah diisi, click Continue dan ceklis box yang ada se
 
 
 ### 2. Create a service
+Back to IBM Cloud home page create Cloud Object Storage service by searching `Object Storage`.
+
+https://github.com/ArvyKR/ASL-Pytorch/assets/95832640/39486e6d-1d2e-4c0a-b315-b5b590f98dde
 
 
-From the WatsonX home page, select `Create a project`, then select the `Create an empty project` and choose a name for your project then press create .
+and then go to WatsonX home page, go to Menu -> Administration -> Services -> Service Catalog, create service `Watson Machine Learning` and `Watson Studio`.
 
 ![SERVICE](https://github.com/ArvyKR/ASL-Pytorch/assets/95832640/c45bc32d-9394-4ddf-be49-a92e63862457)
+![image](https://github.com/ArvyKR/ASL-Pytorch/assets/95832640/7e3102b6-ea3a-4414-867d-8bc6039bfd5f)
+
 
 * create a WatsonX project <a href="https://www.youtube.com/watch?v=-CUi8GezG1I">see tutorial here.</a>  
 
