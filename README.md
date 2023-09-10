@@ -78,8 +78,8 @@ and then go to WatsonX home page, go to Menu -> Administration -> Services -> Se
 * create a new notebook from WatsonX with GPU support.    
     * the notebook should have a GPU support <a href="https://www.youtube.com/watch?v=RNIWtpnNBoo">click here to learn how to create a notebook with GPU support.</a>
     * Use the From URL option and    
-    use this URL for GPU supported notebook: https://github.com/IBM/ASL-Pytorch/blob/master/ASL-GPU.ipynb \
-    or use this URL for CPU notebook(LITE) : https://github.com/IBM/ASL-Pytorch/blob/master/ASL-CPU.ipynb
+    use this URL for GPU supported notebook: https://github.com/ArvyKR/ASL-Pytorch/blob/master/ASL-GPU.ipynb \
+    or use this URL for CPU notebook(LITE) : https://github.com/ArvyKR/ASL-Pytorch/blob/master/ASL-Pytorch.ipynb
 
 ![NOTEBOOK](https://github.com/ArvyKR/ASL-Pytorch/assets/95832640/ea55b61a-38a7-46f6-ab7f-6c78465cdd3e)
 
