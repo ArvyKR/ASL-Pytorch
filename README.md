@@ -34,9 +34,11 @@ We will use WatsonX to run this notebook, WatsonX is available through IBM cloud
 
 * To start you must have IBM cloud account, Get your for free <a href="https://cloud.ibm.com/registration">Here.</a>   
 * From the catalog create a <a href="https://cloud.ibm.com/catalog/services/watsonx">WatsonX</a> with standard plan or more and make sure the region is dallas to enable GPU environment.  
-* Alternatively, you can use the ```ASL_PyTorch-CPU``` Notebook if you are a WatsonX Lite Plan user
 
-![CREATE WS](https://raw.githubusercontent.com/IBM/ASL-Pytorch/master/images/create.gif)  
+
+
+https://github.com/ArvyKR/ASL-Pytorch/assets/95832640/4f13d6b7-59be-4202-b492-bf78f69f9c5a
+
 
 ### 2. Create a service
 
