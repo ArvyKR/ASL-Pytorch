@@ -38,6 +38,20 @@ We will use WatsonX to run this notebook, WatsonX is available through IBM cloud
 
 
 https://github.com/ArvyKR/ASL-Pytorch/assets/95832640/4f13d6b7-59be-4202-b492-bf78f69f9c5a
+pilih Get started pada pilihan watsonx.ai
+![image](https://github.com/ArvyKR/ASL-Pytorch/assets/95832640/6366965c-aeec-451e-9c4d-3fea78f59ffd)
+Selanjutnya pilih Dallas (us-south) sebagai region default yang akan digunakan dan Create an IBM Cloud account.
+![image](https://github.com/ArvyKR/ASL-Pytorch/assets/95832640/10e5eece-fedf-44e9-93b9-cb589f7f53fe)
+Lengkapi seluruh account information yang dibutuhkan, gunakan email student (email IL).
+![image](https://github.com/ArvyKR/ASL-Pytorch/assets/95832640/a21072bd-18d0-42ca-85fa-42138d6830cf)
+Cek inbox Webmail email student (email IL) untuk mendapatkan kode verifikasi dari IBM.
+![image](https://github.com/ArvyKR/ASL-Pytorch/assets/95832640/ece369bf-d493-4ed7-9bb9-91b0266671ef)
+Untuk Personal information bisa diisi dengan nama kampus masing-masing student.
+![image](https://github.com/ArvyKR/ASL-Pytorch/assets/95832640/f765723e-cf12-4724-8ac1-fd26349f2bc1)
+Setelah seluruh informasi telah diisi, click Continue dan ceklis box yang ada seperti di gambar dan click Continue sekali lagi.
+![image](https://github.com/ArvyKR/ASL-Pytorch/assets/95832640/4e68b50a-56e2-4733-8dc2-202389456e1c)
+![image](https://github.com/ArvyKR/ASL-Pytorch/assets/95832640/be22a165-71f4-474c-bac7-f3932699ba7e)
+
 
 
 ### 2. Create a service
