@@ -22,8 +22,8 @@ Learn more about available environments <a href="https://dataplatform.cloud.ibm.
 # Instructions
 
 
-1. [Sign up for WatsonX](#1-sign-up-for-watson-studio)
-2. [Create a new project](#2-create-a-new-project)
+1. [Sign up for WatsonX](#1-sign-up-for-watsonx)
+2. [Create a service](#2-create-a-service)
 3. [Create the notebook](#3-create-the-notebook)
 4. [Run the notebook](#4-run-the-notebook)
 5. [Test your model](#5-Test-the-model)
